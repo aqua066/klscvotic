@@ -19,9 +19,12 @@
 
  [![forthebadge](https://img.shields.io/badge/python%20-%23323330.svg?&style=for-the-badge&logo=python&logoColor=%23F7DF1E)](https://github.com/overnight99)
  [![forthebadge](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://github.com/overnight99)
- [![forthebadge](https://img.shields.io/badge/rust%20-%23323330.svg?&style=for-the-badge&logo=rust&logoColor=%23F7DF1E)](https://github.com/overnight99)
- [![forthebadge](https://img.shields.io/badge/html5%20-%23323330.svg?&style=for-the-badge&logo=html5&logoColor=%23F7DF1E)](https://github.com/overnight99)
  
+ [![forthebadge](https://img.shields.io/badge/C%2B%2B-%23323330?style=for-the-badge&logo=c%2B%2B&logoColor=%23F7DF1E)](https://github.com/overnight99)
+ [![forthebadge](https://img.shields.io/badge/Lua-%23323330?style=for-the-badge&logo=lua&logoColor=%23F7DF1E)](https://github.com/overnight99)
+ 
+ [![forthebadge](https://img.shields.io/badge/C-%23323330?style=for-the-badge&logo=c&logoColor=%23F7DF1E)](https://github.com/overnight99)
+
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/chrome/chrome.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/728542e0d33f83720614f61923a9cb424264db23/topics/firefox/firefox.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
@@ -32,8 +35,7 @@
 </p>
 
  ![C](https://img.shields.io/badge/C-%23323330?style=for-the-badge&logo=c&logoColor=%23F7DF1E)
- ![C++](https://img.shields.io/badge/C%2B%2B-%23323330?style=for-the-badge&logo=c%2B%2B&logoColor=%23F7DF1E)
- ![Lua](https://img.shields.io/badge/Lua-%23323330?style=for-the-badge&logo=lua&logoColor=%23F7DF1E)
+ 
  
  #                                                                  *Redes Sociais* <img src="https://cdn.discordapp.com/attachments/783731417783861298/795260417488322570/a_starred.gif" height="30px" width="30px"/> 
  
