@@ -1,8 +1,8 @@
-#                                                                    *klscvotic* <img src="https://cdn.discordapp.com/emojis/698943360026804296.gif?v=1" height="30px" width="30px"/> 
+#                                                                    *nagalli* <img src="https://cdn.discordapp.com/emojis/698943360026804296.gif?v=1" height="30px" width="30px"/> 
 
 ##
 
-<p align="center">My name is klscvotic, I am 15 years old, I live in Brazil.
+<p align="center">My name is nagalli, I am 15 years old, I live in Brazil.
 </p>
 
 <p align="center">I am an ordinary student of programming. I am always looking for ways to improve my knowledge.
