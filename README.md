@@ -51,5 +51,5 @@
 
 [![Spotify](https://now-playing-codestackr.vercel.app/api/spotify-playing)](https://open.spotify.com/user/1z3fiqcz0hqcvu4nwlh38o4ou?si=jWn70oRWQYKnu-hEayTcgw&utm_source=copy-link)
 
-<p align="right"><img src="https://github-readme-stats.vercel.app/api?username=nagaIli&theme=graywhite&show_icons=true" alt="overnight99"/></p>
+<p align="right"><img src="https://github-readme-stats.vercel.app/api?username=nagaIli&theme=graywhite&show_icons=true" alt="nagaIli"/></p>
 
