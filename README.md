@@ -47,9 +47,8 @@
 "主義是在混亂中實現我們目標的最快方法。🖤" 
 <p align="left">
 
-#                                                                    *Listening* <img src="https://cdn.discordapp.com/emojis/740951406508376095.gif?v=1" height="30px" width="30px"/> 
+#                                                                    
 
-[![Spotify](https://now-playing-codestackr.vercel.app/api/spotify-playing)](https://open.spotify.com/user/1z3fiqcz0hqcvu4nwlh38o4ou?si=jWn70oRWQYKnu-hEayTcgw&utm_source=copy-link)
 
-<p align="right"><img src="https://github-readme-stats.vercel.app/api?username=nagaIli&theme=graywhite&show_icons=true" alt="nagaIli"/></p>
+<p align="right"><img src="https://github-readme-stats.vercel.app/api?username=liebeee&theme=graywhite&show_icons=true" alt="liebeee"/></p>
 
