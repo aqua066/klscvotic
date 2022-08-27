@@ -2,7 +2,7 @@
 
 ##
 
-<p align="center">My nickname is Nagalli, I am 16 years old, I live in Brazil.
+<p align="center">My Nickname is Nagalli, I am 16 years old, I live in Brazil.
 </p>
 
 <p align="center">I am an ordinary student of programming. I am always looking for ways to improve my knowledge.
@@ -43,6 +43,10 @@
 </p>
 
 <p align="center"><img src="https://cdn.discordapp.com/attachments/783731417783861298/795255492581785610/tumblr_f20aacf7843c9bf720aad33030d5caee_5fd73b6e_1280.gif?width=405&height=241" alt="Banner Profile"/></p>
+
+
+![](http://cms-movellas.s3.amazonaws.com/DarthVader.GIF)
+
 
 "*you don't know the power of dark side.*" 
 <p align="left">
