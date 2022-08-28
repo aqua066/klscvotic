@@ -1,7 +1,6 @@
  #
 
 
-![Imagem Darth Vader](https://raw.githubusercontent.com/n4galli/N4galli/main/darthvader.jpg)
 
 <p align="center">My Nickname is Nagalli, I am 16 years old, I live in Brazil.
 </p>
