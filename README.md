@@ -17,13 +17,13 @@
  
 #                                                                    *Linguagens & Ferramentas* <img src="https://cdn.discordapp.com/attachments/783731417783861298/795260004637868042/e_planet.gif" height="30px" width="30px"/> 
 
- [![forthebadge](https://img.shields.io/badge/python%20-%23323330.svg?&style=for-the-badge&logo=python&logoColor=%23F7DF1E)](https://github.com/Nagalli1337)
- [![forthebadge](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://github.com/Nagalli1337)
+ [![forthebadge](https://img.shields.io/badge/python%20-%23323330.svg?&style=for-the-badge&logo=python&logoColor=%23F7DF1E)](https://www.python.org/)
+ [![forthebadge](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://www.java.com/pt-BR/)
  
- [![forthebadge](https://img.shields.io/badge/C%2B%2B-%23323330?style=for-the-badge&logo=c%2B%2B&logoColor=%23F7DF1E)](https://github.com/Nagalli1337)
- [![forthebadge](https://img.shields.io/badge/Lua-%23323330?style=for-the-badge&logo=lua&logoColor=%23F7DF1E)](https://github.com/Nagalli1337)
+ [![forthebadge](https://img.shields.io/badge/C%2B%2B-%23323330?style=for-the-badge&logo=c%2B%2B&logoColor=%23F7DF1E)](https://www.cprogramming.com/)
+ [![forthebadge](https://img.shields.io/badge/Lua-%23323330?style=for-the-badge&logo=lua&logoColor=%23F7DF1E)](https://www.lua.org/)
  
- [![forthebadge](https://img.shields.io/badge/C-%23323330?style=for-the-badge&logo=c&logoColor=%23F7DF1E)](https://github.com/Nagalli1337)
+ [![forthebadge](https://img.shields.io/badge/C-%23323330?style=for-the-badge&logo=c&logoColor=%23F7DF1E)](https://www.cprogramming.com/)
 
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/chrome/chrome.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/728542e0d33f83720614f61923a9cb424264db23/topics/firefox/firefox.png"></code>
