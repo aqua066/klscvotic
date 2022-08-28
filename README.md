@@ -43,6 +43,9 @@
 
 <p align="center"><img src="https://cdn.discordapp.com/attachments/783731417783861298/795255492581785610/tumblr_f20aacf7843c9bf720aad33030d5caee_5fd73b6e_1280.gif?width=405&height=241" alt="Banner Profile"/></p>
 
+![My Discord](https://discord-readme-badge.vercel.app/api?id=<780512858059309087>)
+
+
 
  ![](http://cms-movellas.s3.amazonaws.com/DarthVader.GIF)
 
