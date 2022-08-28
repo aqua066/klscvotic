@@ -33,7 +33,7 @@
            
  #
  
- ![My Discord](https://discord-readme-badge.vercel.app/api?id=<780512858059309087>)
+ ![nagalli#7546](https://discord-readme-badge.vercel.app/api?id=<780512858059309087>)
 
  #                                                                  *Redes Sociais* <img src="https://cdn.discordapp.com/attachments/783731417783861298/795260417488322570/a_starred.gif" height="30px" width="30px"/> 
  
