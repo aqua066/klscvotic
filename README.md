@@ -37,7 +37,7 @@
  
 <p align="center">
 <a href="https://twitter.com/criminaIizar?a=09" target="blank"><img align="center" src="https://media.discordapp.net/attachments/768926761844211753/792033471149244436/desconhecido.png?width=342&height=342" alt="overnight99" height="50" width="50" /></a>
-<a href="" target="blank"><img align="center" src="https://media.discordapp.net/attachments/768926761844211753/792033941666004992/desconhecido.png?width=225&height=225" alt="nagalli1337" height="50" width="50"</a>
+<a href="" target="blank"><img align="center" src="https://media.discordapp.net/attachments/768926761844211753/792033941666004992/desconhecido.png?width=225&height=225" alt="n4galli" height="50" width="50"</a>
 </a>     
 </p>
 
@@ -52,5 +52,5 @@
 
 #                                                                    
 
- <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Nagalli1337&theme=codeSTACKr&show_icons=true" alt="liebeee"/></p>
+ <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=N4galli&theme=codeSTACKr&show_icons=true" alt="liebeee"/></p>
 
