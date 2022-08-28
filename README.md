@@ -1,4 +1,4 @@
-#                                                                    *Matheus Dantas* 
+#                                                                    *Matheus L Dantas* 
 
 ##
 
@@ -54,5 +54,5 @@
 #                                                                    
 
 
-<p align="right"><img src="https://github-readme-stats.vercel.app/api?username=liebeee&theme=graywhite&show_icons=true" alt="liebeee"/></p>
+<p align="right"><img src="https://github-readme-stats.vercel.app/api?username=Nagalli1337&theme=graywhite&show_icons=true" alt="liebeee"/></p>
 
