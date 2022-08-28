@@ -54,6 +54,5 @@
 
 #                                                                    
 
-
-  <p align="right"><img src="https://github-readme-stats.vercel.app/api?username=Nagalli1337&theme=codeSTACKr&show_icons=true" alt="liebeee"/></p>
+<p align="right"><img src="https://github-readme-stats.vercel.app/api?username=Nagalli1337&theme=codeSTACKr&show_icons=true" alt="Nagalli1337"/></p>
 
