@@ -31,9 +31,10 @@
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sublime-text/sublime-text.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/atom/atom.png"></code>
            
+ #
+ 
+ ![My Discord](https://discord-readme-badge.vercel.app/api?id=<780512858059309087>)
 
- 
- 
  #                                                                  *Redes Sociais* <img src="https://cdn.discordapp.com/attachments/783731417783861298/795260417488322570/a_starred.gif" height="30px" width="30px"/> 
  
 <p align="center">
