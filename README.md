@@ -20,5 +20,8 @@
 
 <p align="center">
 <img src="https://discord-readme-badge.vercel.app/api?id=780512858059309087">
+
+#
+
 <img src="https://github-readme-stats.vercel.app/api?username=N4galli&theme=codeSTACKr&show_icons=true" alt="liebeee"/>
 </p>                                                                  
