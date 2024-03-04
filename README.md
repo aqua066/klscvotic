@@ -35,13 +35,9 @@
  ![C++](https://img.shields.io/badge/C%2B%2B-%23323330?style=for-the-badge&logo=c%2B%2B&logoColor=%23F7DF1E)
  ![Lua](https://img.shields.io/badge/Lua-%23323330?style=for-the-badge&logo=lua&logoColor=%23F7DF1E)
  
- #                                                                  *Redes Sociais* <img src="https://cdn.discordapp.com/attachments/783731417783861298/795260417488322570/a_starred.gif" height="30px" width="30px"/> 
+
  
-<p align="center">
-<a href="https://twitter.com/itsdream1987A?a=09" target="blank"><img align="center" src="https://media.discordapp.net/attachments/768926761844211753/792033471149244436/desconhecido.png?width=342&height=342" alt="Divin1ty" height="50" width="50" /></a>
-<a href="" target="blank"><img align="center" src="https://media.discordapp.net/attachments/768926761844211753/792033941666004992/desconhecido.png?width=225&height=225" alt="Divin1ty" height="50" width="50"</a>
-</a>     
-</p>
+#
 
 <p align="center"><img src="https://cdn.discordapp.com/attachments/783731417783861298/795255492581785610/tumblr_f20aacf7843c9bf720aad33030d5caee_5fd73b6e_1280.gif?width=405&height=241" alt="Banner Profile"/></p>
 
