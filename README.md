@@ -2,7 +2,7 @@
 
 ##
 
-<p align="center">Olá Mundo, me chamo Matheus, adolescente aspirante a programador mirim 🤓, com um ótimo gosto musical e amante da programação em um mundo onde a internet move tudo e qualquer coisa.
+<p align="center">Olá Mundo, me chamo Matheus, adolescente aspirante a programador 🤓, amante da programação em um mundo onde a internet move tudo e qualquer coisa.
 </p>
 
 <p align="center">Bom, espero que possa me conhecer melhor através dessa breve descrição.
