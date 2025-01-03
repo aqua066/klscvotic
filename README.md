@@ -1,17 +1,11 @@
 ### Olá, me chamo Matheus Lima! 👋
 
-
-
-* <p align="center">  Profissional em formação na área de Desenvolvimento de Sistemas, com experiência em projetos alinhados às tendências e tecnologias atuais.
-</p
-
-<p align="center"> 
-
-
+<p align="center">
+  Profissional em formação na área de Desenvolvimento de Sistemas, com experiência em projetos alinhados às tendências e tecnologias atuais.
+</p>
 
 ### - Competências e Ferramentas
 <p align="center">
- 
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/html.svg" alt="html" style="vertical-align:top; margin:4px">    
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/js.svg" alt="js" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/misc/cloud.svg" alt="cloud" style="vertical-align:top; margin:4px">
@@ -22,27 +16,17 @@
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/bash.svg" alt="bash" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px">
 </p>
- 
-#
 
 ### - Contate-me
 
 <p align="left">
-
+  <a href="mailto:theus.desk@outlook.com" title="Gmail">
+    <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://www.linkedin.com/in/seu-perfil" title="LinkedIn">
+    <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
 </p>
-
-<p align="left">
-  <a href="#" title="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:theus.desk@outlook.com" alt="Gmail"/></a>
-  <a href="#" title="LinkedIn">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" alt="LinkedIn"/></a>
- 
-
-
-
-
-
-#
 
 <img src="https://github-readme-stats.vercel.app/api?username=matheusyet&theme=codeSTACKr&show_icons=true" alt="matheusyet"/>
-</p>
+
